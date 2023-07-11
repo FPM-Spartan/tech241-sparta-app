@@ -1,7 +1,7 @@
 ## Sparta Node Sample App
 ## Testing with tech241
 ### Has your automation worked?
-#### Try Again! again. Again. Aagin"! Again
+#### Try Again! again. Again. Aagin"! Again, a g AIN?!
 ## Description
 
 This app is intended for use with the Sparta Global Devops Stream as a sample app. You can clone the repo and use it as is but no changes will be accepted on this branch. 
